@@ -1,0 +1,6 @@
+{
+  "name": "Manhwa Vox Studio",
+  "description": "Timeline-synchronized AI voiceover generator and audio mastering studio for the 26:48 Yunan High School Manhwa Explanation script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
